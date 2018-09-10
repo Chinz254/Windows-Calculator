@@ -1,4 +1,4 @@
-# hello-world
+# Windows Calculator
 
 ## Project setup
 ```
